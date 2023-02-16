@@ -205,6 +205,9 @@ export const navigation = (locale: AppLocale): NavItemDefinition[] => [
       {
         slug: 'assemblyscript-migration-guide',
       },
+      {
+        slug: 'graphql-validations-migration-guide',
+      },
     ],
   },
 ]
